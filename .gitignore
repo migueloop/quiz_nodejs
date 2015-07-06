@@ -38,4 +38,7 @@ Thumbs.db
 
 # npm modules #
 ###############
-node_modules*
+node_modules
+.env
+quiz.sqlite
+npm-debug.log
