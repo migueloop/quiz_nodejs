@@ -1,2 +1,2 @@
 Quiz
-Module 6 exercise. NodeJS course.
+A NodeJS course from miriadax.net
